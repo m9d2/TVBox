@@ -55,11 +55,6 @@ CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
-湖南快乐垂钓,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
-湖南茶频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
-SiTV游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
-SiTV游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
-SiTV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225821/index.m3u8
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/index.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
@@ -96,3 +91,8 @@ SiTV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/i
 兵团卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226214/index.m3u8
 南方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226218/index.m3u8
 厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226219/index.m3u8
+湖南快乐垂钓,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
+湖南茶频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
+SiTV游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
+SiTV游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
+SiTV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
